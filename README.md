@@ -1,5 +1,8 @@
 # LLM LangChain Weather Agent
 
+**(also provided Traditional Chinese version document [README-CH.md](README-CH.md).)**
+
+
 Using LangChain to integrate the Ollama model (I am using Gemma3) to implement an AI Agent's function calling, allowing the model to decide whether to call an external API to fetch weather data for its response.  
 
 ## Overview
